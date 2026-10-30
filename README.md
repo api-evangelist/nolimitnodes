@@ -64,5 +64,116 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NoLimitNodes is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://nolimitnodes.com/
+NoLimitNodes provides private Solana RPC nodes, Yellowstone gRPC streams, Shredstream, and Geyser plugin hosting, along with a comprehensive catalog of pre‑parsed on‑chain events. Targeted at high‑frequency traders, MEV searchers, and indexers, the service offers schema‑stable data without the need for custom parsers, guaranteeing uptime and flat‑rate pricing. The platform includes extensive documentation, pricing details, a blog, and support channels, enabling developers to integrate Solana infrastructure quickly and reliably.
+
+**Areas:** Company · Solana · RPC · Data Streams · MEV · Infrastructure
+
+## NoLimitNodes on APIs.io
+
+Everything profiled for NoLimitNodes is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nolimitnodes/](https://apis.io/providers/nolimitnodes/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Solana RPC API](https://apis.io/apis/nolimitnodes/solana-rpc-api/) — Provides private Solana RPC nodes, gRPC streams, Shredstream, and Geyser plugin hosting for high‑frequency traders and indexers.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Nolimitnodes Agentic Access](https://apis.io/agentic-access/nolimitnodes/nolimitnodes-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [NoLimitNodes API Rules](https://apis.io/rules/nolimitnodes/nolimitnodes-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nolimitnodes Authentication](https://apis.io/security/nolimitnodes/nolimitnodes-authentication/)
+- [Nolimitnodes Domain Security](https://apis.io/security/nolimitnodes/nolimitnodes-domain-security/)
+- [Nolimitnodes Vulnerability Disclosure](https://apis.io/security/nolimitnodes/nolimitnodes-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Nolimitnodes Plans Pricing](https://apis.io/plans/nolimitnodes/nolimitnodes-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nolimitnodes.com/)
+- [Documentation](https://nolimitnodes.com/docs/api-reference/general/overview)
+- [Getting started](https://nolimitnodes.com/docs/getting-started)
+- [API reference](https://nolimitnodes.com/docs/api-reference/general/overview)
+- [Pricing](https://nolimitnodes.com/pricing)
+- [Sign up](https://nolimitnodes.com/talk-to-sales)
+- [Support](https://nolimitnodes.com/support)
+- [Changelog](https://nolimitnodes.com/docs/changelog)
+- [Blog](https://nolimitnodes.com/blog)
+- [Terms of service](https://nolimitnodes.com/terms)
+- [Privacy policy](https://nolimitnodes.com/privacy)
+- [Status](https://nolimitnodes.com/status)
+
+## API Evangelist rating
+
+**Kin Score 41.4** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 63.3 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 42.1 |
+| Developer ergonomics | 49.4 |
+| Access clarity | 76.3 |
+
+**Agent readiness 8.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nolimitnodes/](https://apis.io/providers/nolimitnodes/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for NoLimitNodes: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nolimitnodes/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
